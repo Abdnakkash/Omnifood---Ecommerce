@@ -24,7 +24,7 @@ https://omnifood-abdnakkash.netlify.app/
 
 ## 📷 Screenshots
 
-<img width="1920" height="8818" alt="screencapture-omnifood-abdnakkash-netlify-app-2025-08-10-22_14_23" src="https://github.com/user-attachments/assets/df263e4b-8c0a-4372-abc0-254a283431bb" />
+<img width="1920" height="8818" alt="screencapture-omnifood-abdnakkash-netlify-app-2025-08-10-22_14_23" src="https://github.com/user-attachments/assets/27aa5d0d-1df7-4b90-8458-52607057747f" />
 
 ---
 
