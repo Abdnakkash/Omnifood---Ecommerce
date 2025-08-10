@@ -1,0 +1,30 @@
+# 🛒 Responsive E-Commerce Website
+
+## 📌 Overview
+
+This is a **fully responsive e-commerce website** built using **HTML** and **CSS**, 
+featuring a clean layout, smooth typography, and a mobile-first design approach. The website adapts perfectly to all devices, providing an excellent user experience.
+
+## 🚀 Features
+
+* 📱 **Responsive Design** for mobile, tablet, and desktop
+* 🎨 **Modern UI** with smooth colors and typography
+* ⚡ **Fast Loading** and SEO-friendly structure
+* 🖼️ **Product Cards** with images and details
+* 🌐 **Live Hosted** via Netlify
+
+## 🛠️ Technologies Used
+
+* **HTML5**
+* **CSS3** (Flexbox & Grid)
+
+## 🔗 Live Demo
+
+https://omnifood-abdnakkash.netlify.app/
+
+## 📷 Screenshots
+
+<img width="1920" height="8818" alt="screencapture-omnifood-abdnakkash-netlify-app-2025-08-10-22_14_23" src="https://github.com/user-attachments/assets/df263e4b-8c0a-4372-abc0-254a283431bb" />
+
+---
+
